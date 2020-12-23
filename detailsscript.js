@@ -19,7 +19,7 @@ else {
     alert('THANK YOU FOR BUYING FROM US :)');
 }
 var recommendations =prompt('Any Recommendations?');
-alert('Your Recommendation Is : ' +recommendations)
+alert('Your Recommendation Will Be considered')
 console.log(recommendations);
 
 
