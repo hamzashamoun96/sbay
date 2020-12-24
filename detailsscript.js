@@ -31,16 +31,10 @@ else {
     document.write('<p>' + 'Toltal Price: ' + Theprice + '$' + '<p>');
 }
 for (var i = 0; i < numberofcars; i++) {
-    
-    document.write(i+1 +'<img src="https://evchargeplus.com/wp-content/uploads/2019/11/BMW-i8-Coupe0-800x600.png" alt="">');
-    
+    document.write('<p>' + (i + 1) + '</p>');
+    document.write('<img src="https://evchargeplus.com/wp-content/uploads/2019/11/BMW-i8-Coupe0-800x600.png" alt="">');
+
 }
 var recommendations = prompt('Any Recommendations?');
 alert('Your Recommendation Will Be considered')
 console.log(recommendations);
-
-
-
-
-
-
