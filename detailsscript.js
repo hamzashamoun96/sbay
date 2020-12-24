@@ -3,7 +3,7 @@ alert('Buy More Than 10 And Get 50% SALE!!!');
 var name = prompt('Tell Us Your Name ');
 document.write('Your Name Is: ' + name + ' ');
 var numberofcars = prompt('How Many Cars Do You Want?');
-document.write('Number Of Cars Is: ' + numberofcars);
+document.write('Number Of Cars Is: ' + numberofcars+' ');
 
 var Theprice = numberofcars * 199999;
 
