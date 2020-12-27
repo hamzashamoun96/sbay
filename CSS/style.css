@@ -1,0 +1,16 @@
+body{background-color: black;}
+
+li{display: inline-block;}
+li{background-color: gray;}
+li{color: gold;}
+li{width: 75px;
+padding: 10px;
+border: 5px solid black;}
+.A{color:goldenrod;}
+#B{float: left;}
+
+
+header{background-color: white;}
+.basic{color: green;}
+main{background-color: grey;}
+footer{background-color: grey;}
